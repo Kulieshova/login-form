@@ -52,7 +52,7 @@ section#formHolder {
   top: 0;
   left: 0;
   background: rgba(0, 0, 0, 0.90);
-  background-image: url('dark.png');
+  background-image: url('dark-youth.png');
   background-size: cover;
   opacity: 0.95;
   z-index: -1;
